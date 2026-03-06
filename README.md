@@ -221,5 +221,3 @@ Created by **Richard Best**
 - [bestbuilds.io](https://bestbuilds.io)
 - [kmoji.io](https://kmoji.io) -- REST API
 - [Buy Me A Coffee](https://buymeacoffee.com/cryptor1ch)
-
-Based on the kaomoji generator from the KAAS project.
