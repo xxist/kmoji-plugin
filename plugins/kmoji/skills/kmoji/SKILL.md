@@ -1,6 +1,6 @@
 ---
 name: kmoji
-description: Generates kaomojis (Japanese-style text emoticons) on demand. Use when the user asks to generate a kaomoji, create a text emoticon, make a text face, or wants an expressive emoticon. Trigger phrases include "generate kaomoji", "make a kaomoji", "text face", "emoticon". Supports moods like happy, sad, angry, cute, and neutral.
+description: ⦤╭ˆ⊛◡⊛ˆ╮⦥ Generates kaomojis (Japanese-style text emoticons) on demand. Use when the user asks to generate a kaomoji, create a text emoticon, make a text face, or wants an expressive emoticon. Trigger phrases include "generate kaomoji", "make a kaomoji", "text face", "emoticon". Supports moods like happy, sad, angry, cute, and neutral.
 argument-hint: "[mood] [count] - optional mood: happy, sad, angry, cute, neutral. Optional count: 1-10. Leave blank for 3 random."
 license: Apache-2.0 WITH Commons-Clause-1.0
 metadata:
