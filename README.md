@@ -216,4 +216,10 @@ Free to use, modify, and share. Cannot be sold as a standalone product or servic
 
 ## Credits
 
-Based on the kaomoji generator from the KAAS project. (www.kmoji.io)
+Created by **Richard Best**
+
+- [bestbuilds.io](https://bestbuilds.io)
+- [kmoji.io](https://kmoji.io) -- REST API
+- [Buy Me A Coffee](https://buymeacoffee.com/cryptor1ch)
+
+Based on the kaomoji generator from the KAAS project.
