@@ -1,6 +1,6 @@
 {
   "name": "kmoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "⦤╭ˆ⊛◡⊛ˆ╮⦥ Kaomoji generator & vibe coding plugin for Claude Code",
   "license": "Apache-2.0 WITH Commons-Clause-1.0",
   "bin": {

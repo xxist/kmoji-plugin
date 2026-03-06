@@ -10,7 +10,7 @@
     {
       "name": "kmoji",
       "description": "⫹╭ˆ◕ᗢ◕ˆ╮⫺ Generate kaomojis (Japanese-style text emoticons) with mood-based expressions. Includes a /kmoji slash command and background vibe-kmoji integration that adds expressive kaomojis to Claude's responses during coding sessions.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Richard Best",
         "email": "hello@bestbuilds.io"
