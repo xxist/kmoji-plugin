@@ -1,4 +1,4 @@
-# KMOJI - ⦤╭ˆ⊛◡⊛ˆ╮⦥ Kaomoji Generator & Vibe Coding Plugin
+# KMOJI - Kaomoji Generator & Vibe Coding Plugin ⦤╭ˆ⊛◡⊛ˆ╮⦥
 
 An open-source Claude Code plugin that generates unique kaomojis and auto-integrates them into your vibe coding sessions.
 
