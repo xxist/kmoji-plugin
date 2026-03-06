@@ -1,0 +1,10 @@
+{
+  "name": "kmoji",
+  "description": "Generate kaomojis (Japanese-style text emoticons) with mood-based expressions. Supports happy, sad, angry, cute, and neutral moods.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Richard Best - www.bestbuilds.io"
+  },
+  "repository": "https://github.com/xxist/kmoji-plugin",
+  "license": "Apache-2.0"
+}

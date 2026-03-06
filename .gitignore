@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Dev artifacts
+reference/
+review-kaomojis*.md
+
+# Local Claude settings
+.claude/settings.json
