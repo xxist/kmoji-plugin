@@ -50,8 +50,6 @@ Each kaomoji is built from 6 optional layers concatenated left-to-right:
 [background] [hands] [species] [features] [eyes] [mouth] [eyes] [features] [species] [hands] [background]
 ```
 
-When a mood is specified, eyes and mouths are filtered to match. Other parts are always random. See [kaomoji-parts.md](kaomoji-parts.md) for the full Unicode character library.
-
 ## Troubleshooting
 
 | Problem | Solution |

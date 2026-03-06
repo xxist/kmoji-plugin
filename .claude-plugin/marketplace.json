@@ -1,5 +1,4 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "kmoji",
   "description": "⫹╭ˆ◕ᗢ◕ˆ╮⫺ Kaomoji generator and vibe coding plugin for Claude Code. Generate unique kaomojis from hundreds of Unicode parts, with mood-based filtering and auto-integration into coding sessions.",
   "owner": {
@@ -10,12 +9,12 @@
     {
       "name": "kmoji",
       "description": "⫹╭ˆ◕ᗢ◕ˆ╮⫺ Generate kaomojis (Japanese-style text emoticons) with mood-based expressions. Includes a /kmoji slash command and background vibe-kmoji integration that adds expressive kaomojis to Claude's responses during coding sessions.",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "author": {
         "name": "Richard Best",
         "email": "hello@bestbuilds.io"
       },
-      "source": ".",
+      "source": "./plugins/kmoji",
       "category": "personality",
       "homepage": "https://github.com/xxist/kmoji-plugin"
     }

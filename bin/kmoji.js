@@ -46,7 +46,8 @@ const LOADING_STEPS = [
 
 // ── Paths ──────────────────────────────────────────────────────
 const KMOJI_ROOT = path.resolve(__dirname, "..");
-const SKILLS_DIR = path.join(KMOJI_ROOT, "skills");
+const PLUGIN_DIR = path.join(KMOJI_ROOT, "plugins", "kmoji");
+const SKILLS_DIR = path.join(PLUGIN_DIR, "skills");
 const TEMPLATES_DIR = path.join(KMOJI_ROOT, "templates");
 const GENERATOR_SCRIPT = path.join(
   SKILLS_DIR,
